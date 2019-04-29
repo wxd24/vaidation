@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"第一次用终端提交");
+    NSLog(@"第二次用终端提交");
 }
 
 
